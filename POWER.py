@@ -45,8 +45,8 @@ app.layout = html.Div([
             id="animated-logo",
             style={
                 "height": "80px",
-                "float": "left",
-                "marginRight": "20px",  # Moved slightly to the right
+                "float": "right",
+                "marginRight": "40px",  # Moved slightly to the right
                 "animation": "pulse 3s ease-in-out infinite"  # New animation
             }
         ),

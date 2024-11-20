@@ -14,9 +14,9 @@ server = app.server  # Expose the server for deployment
 # File directory for static files
 STATIC_PATH = "static"
 PPT_FILE_NAME = "Staff Qualification Overview Per Department.pptx"
-PDF_FILE_NAME = "Faculty EXCO.pdf"
+PDF_FILE_NAME = "Faculty EXCO.pptx"
 FAS_FILE_NAME = "FAS Preliminary Analysis 2023.pptx"
-ACADEMIA_FILE_NAME = "Transforming the Academia.pptx"
+ACADEMIA_FILE_NAME = "Transforming of Academia.pptx"
 PPT_FILE_PATH = os.path.join(STATIC_PATH, PPT_FILE_NAME)
 PDF_FILE_PATH = os.path.join(STATIC_PATH, PDF_FILE_NAME)
 FAS_FILE_PATH = os.path.join(STATIC_PATH, FAS_FILE_NAME)

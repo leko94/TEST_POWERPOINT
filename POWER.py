@@ -50,7 +50,7 @@ app.layout = html.Div([
                 "animation": "pulse 3s ease-in-out infinite"  # New animation
             }
         ),
-        html.H1("FACULTY OF APPLIED SCIENCE DASHBOARD",
+        html.H1("FACULTY OF APPLIED SCIENCE POWERPOINT DASHBOARD",
                 style={"color": "#333", "fontWeight": "bold", "textAlign": "center"}),
         html.Div(style={"height": "10px", "backgroundColor": "purple"})
     ], style={"padding": "10px"}),
